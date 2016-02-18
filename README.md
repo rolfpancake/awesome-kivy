@@ -10,6 +10,26 @@ A curated list of awesome [kivy](https://kivy.org/) apps, libraries and articles
 First things first
 
 - [kivy.org](https://kivy.org/) - Official website of the project
+- [kivy on github](https://github.com/kivy) - Official repo of the project
+- 
+
+## Development
+
+- [kivy designer](https://github.com/kivy/kivy-designer) - Create your kv files with ease
+
+## Made with kivy
+
+### Software
+
+-
+
+### Apps
+
+-
+
+### Games
+
+-
 
 ## Unsorted
 //TODO
